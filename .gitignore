@@ -1,0 +1,7 @@
+# NodeJS/npm garbage
+node_modules
+np-debug.log*
+
+# VitePress
+docs/.vitepress/cache
+docs/.vitepress/dist
