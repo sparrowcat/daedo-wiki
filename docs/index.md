@@ -4,22 +4,26 @@ layout: home
 
 hero:
   name: "Daedo Wiki"
-  text: "A digital grimoire providing all the instructions you need to invoke the ancient rituals required to use Daedo software and hardware."
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  text: ""
+  tagline: "A digital grimoire providing all the instructions you need to invoke the ancient rituals required to use Daedo software and hardware."
+  #actions:
+  #  - theme: brand
+  #    text: Markdown Examples
+  #    link: /markdown-examples
+  #  - theme: alt
+  #    text: API Examples
+  #    link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Operating TkStrike
+    details: Instructions for computer operators on how to use the TkStrike software
+    link: /operating-tkstrike
+  - title: Setup / Transition / Teardown
+    details: Instructions for how to set up, transition to sparring, and tear down all the laptops and hardware before and after a tournament
+    link: /setup-teardown
+  - title: Troubleshooting
+    details: Click here if Daedo is on fire
+  - title: Daedo Hardware Configuration
+    details: The most ancient of rituals. Instructions on how to interface with the Daedo hardware
 ---
 

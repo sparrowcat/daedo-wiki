@@ -1,6 +1,25 @@
-# Markdown Extension Examples
+# Operating TkStrike
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+This page shows the instructions for operating the TkStrike software
+
+## Setting up a Match
+
+## Hardware Test
+
+::: tip
+This step is primarily relevant if you are running an A or B team ring. C team rings will typically only request a hardware test if the corner judge controllers are acting up.
+:::
+
+
+
+
+## Running a Match
+
+::: tip
+Your most important job during a match is to follow what the center ref says and communicate with the center ref.
+:::
+
+To start a round, click "Start Round" on the right-hand menu. Alternatively, you can use the hotkey "Enter".
 
 ## Syntax Highlighting
 
