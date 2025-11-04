@@ -14,10 +14,10 @@ export default defineConfig({
       {
         text: '',
         items: [
-          { text: 'Operating TkStrike', link: '/operating-tkstrike' },
           { text: 'Setup/Transition/Teardown', link: '/setup-teardown' },
-	  { text: 'Troubleshooting' },
-	  { text: 'Daedo Hardware Configuration' }
+          { text: 'Operating TkStrike', link: '/operating-tkstrike' },
+	  { text: 'Troubleshooting', link: '/troubleshooting' },
+	  { text: 'Daedo Hardware Configuration', link: '/hardware-configuration' }
         ]
       }
     ],
